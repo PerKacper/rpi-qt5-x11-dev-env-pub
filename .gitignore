@@ -1,0 +1,3 @@
+.vagrant/
+provision/source/*
+qt-on-pi-sample-apps/
